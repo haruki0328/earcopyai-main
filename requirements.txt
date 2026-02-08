@@ -1,4 +1,6 @@
 setuptools
+wheel
+resampy>=0.4.3
 streamlit
 numpy
 demucs
