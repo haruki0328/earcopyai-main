@@ -1,3 +1,4 @@
+setuptools
 streamlit
 numpy
 demucs
@@ -5,4 +6,3 @@ pretty_midi
 pandas
 basic-pitch
 tensorflow
-setuptools  # 👈 これを追加！
