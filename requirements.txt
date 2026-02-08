@@ -4,4 +4,5 @@ demucs
 pretty_midi
 pandas
 basic-pitch
-tensorflow  # Basic Pitchの裏側で使います
+tensorflow
+setuptools  # 👈 これを追加！
