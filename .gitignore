@@ -1,0 +1,6 @@
+venv/
+omni-env/
+output/
+__pycache__/
+*.pyc
+.cookie
